@@ -1,6 +1,6 @@
 {
   "name": "reality-eth",
   "dependencies": {
-    "lerna": "^7.4.2"
+    "lerna": "^10.1.0"
   }
 }
